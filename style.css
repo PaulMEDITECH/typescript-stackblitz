@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  direction: column;
+  padding: 16;
+}
+.item {
+  flex:1;
+  width:100%;
+  background-color: green;
+  border: 1px;
+}
